@@ -8,8 +8,8 @@
 
 useContext is a React hook that makes it easy to pass data throughout your app without manually passing props down the component tree.
 
-![Image of prop drilling](/usecontext/images/Screenshot%202022-07-06%20at%2011.36.23.png)
-![Image of prop drilling](/usecontext/images/Screenshot%202022-07-06%20at%2011.36.32.png)
+![Image of prop drilling](/images/Screenshot%202022-07-06%20at%2011.36.23.png)
+![Image of useContext](/images/Screenshot%202022-07-06%20at%2011.36.32.png)
 
 <br>
 
